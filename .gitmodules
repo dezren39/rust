@@ -1,0 +1,9 @@
+[submodule "chip"]
+	path = chip
+	url = http://github.com/dezren39/chip
+[submodule "chip-8"]
+	path = chip-8
+	url = http://github.com/dezren39/chip
+[submodule "date/2021-12/forloop"]
+	path = date/2021-12/forloop
+	url = https://github.com/dezren39/for-loop
